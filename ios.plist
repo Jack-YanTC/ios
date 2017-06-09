@@ -37,7 +37,7 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<!-- BundleID，就是新建app时的包名 -->
-				<string>com.liuniukeji.yiwenjiaoyu.qiye</string>
+				<string>123456</string>
 				<key>bundle-version</key>
 				 <!-- 版本号 -->
 				<string>2.2.2</string>
